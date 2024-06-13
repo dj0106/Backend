@@ -1,5 +1,0 @@
-package API
-
-func Router() {
-	
-}
